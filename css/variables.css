@@ -1,0 +1,17 @@
+:root {
+    --hblack: #101010;
+    --hwhite: #f7f7f7; 
+    --pblack: rgb(48, 48, 48);
+    --pgray: #b1b1b1;
+    --bg-gray: #f2f3f5;
+    --bg-orange: #ff6326;
+    --bg-purple: #4f1987;
+    --bg-black: #12111b;
+    --bg-end: #f2f3f5;
+}
+
+:root {
+--antonio: 'Anton', sans-serif;
+--fmontserrat: 'Montserrat', sans-serif;
+--roboto: 'Roboto', sans-serif;
+}
